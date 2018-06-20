@@ -1,0 +1,42 @@
+#this is a YAML file.
+"%YAML"
+Containers :
+ name : &name
+ age : &age 
+ gender : &gender
+ occupation : &occupation
+ college : &college
+ hobbies : &hobbies
+
+Author Description : 
+  name : Priyansh
+  age : 19
+  gender : Male
+  occupation : Intern at Farfetch
+  college : Vit University, Vellore
+  hobbies : sports
+
+Download : 
+  name : name_of_file
+  url : url_of_file
+  type : datatype_of_file
+  size : size_of_file
+
+datatype_of_file :
+  type :
+    - .txt
+    - .doc
+    - .docx
+    - .py
+    - .json
+    - .c
+    - .cpp
+    - .html
+    - .htm
+    - .php
+    - .pip
+    - .json
+    - .
+
+url_of_file : http:://
+
