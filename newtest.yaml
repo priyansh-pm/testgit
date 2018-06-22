@@ -1,0 +1,18 @@
+# this is a new tester yaml file
+
+"%YAML"
+Containers :
+ name : &name
+ age : &age 
+ gender : &gender
+ occupation : &occupation
+ college : &college
+ hobbies : &hobbies
+
+Author Description : 
+  name : Priyansh
+  age : 19
+  gender : Male
+  occupation : Intern at Farfetch
+  college : Vit University, Vellore
+  hobbies : sports
