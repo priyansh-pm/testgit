@@ -1,6 +1,6 @@
 # this is a new tester yaml file
 
-"%YAML"
+
 Containers :
  name : &name
  age : &age 
