@@ -5,3 +5,5 @@ print(f.read())
 
 a = open("newtest.yaml","a")
 a.write("Tomahawk")
+
+a.delete
