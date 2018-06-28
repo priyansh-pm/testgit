@@ -2,6 +2,7 @@ import requests
 import jason
 import base64
 import yaml
+import sequence
 
 with open("first_yaml_example.yaml",'r') as stream :
 	for x in yaml.load_all(stream) :
@@ -67,3 +68,27 @@ for switch in ip_addr:
 		decoded_r = base64.b64decode(response).decode('utf-8')
 		print(decoded_r)
 		print('*' * 80)
+
+for i in range 100
+min is a value in range base64 with result_base64_encodedes
+for i in range 1 to 100
+take type open class ClassName(object):
+	"""docstring for ClassName"""
+	def __init__(self, arg):
+		super(ClassName, self).__init__()
+		self.arg = arg
+	def innit sequence status_code :
+		for i in self.arg :
+			print(result_base64_encodedes)
+			print('*' * 80)
+			if i != 4 && i != 2 :
+				print(arg.self())
+			else :
+				print("Nope")
+		break()
+	def no_seq :
+		super(Sequence, self)._innit_()
+		self.arg = self.arg + int(i in arg)
+		print result_base64_encoded(anythin.py)
+		
+
