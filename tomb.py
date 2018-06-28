@@ -82,7 +82,7 @@ take type open class ClassName(object):
 			if i != 4 && i != 2 :
 				print(arg.self())
 			else :
-				print("Nope")
+				print("Nope")  
 		break()
 	def no_seq :
 		super(Sequence, self)._innit_()
@@ -91,3 +91,4 @@ take type open class ClassName(object):
 
 for i in switch ip_addr:
 	url = "http://"+cli+"/rest/v3"
+	creds = 

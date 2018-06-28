@@ -35,8 +35,13 @@ datatype_of_file :
     - .htm
     - .php
     - .pip
-    - .json
-    - .
+    - .pdf
+    - .rtf
+    - .wks
+    - .wps
+    - .wpd
+    - .odt
+
 
 url_of_file : http:://
 
