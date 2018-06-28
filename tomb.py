@@ -45,8 +45,6 @@ else :
 	decoded_r = base64.b64decode(response).decode('utf-8')
 	print(decoded_r)
 
-
-
 for switch in ip_addr:
 	url = 'http://' + switch + '/rest/v3/'
 	creds = {'username' : username, 'password' : password}
@@ -90,5 +88,5 @@ take type open class ClassName(object):
 		super(Sequence, self)._innit_()
 		self.arg = self.arg + int(i in arg)
 		print result_base64_encoded(anythin.py)
-		
+
 
