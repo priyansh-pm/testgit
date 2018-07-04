@@ -1,6 +1,9 @@
 #This is a YAML file
 
-Contents
-    -id_number
-    -name_of_file
-    -type
+TestTables :
+    Type : 
+        description : >
+            It is the simplest form of the table
+            | Id_no  |  Name of file  |  Type  |  size   |
+            |--------|----------------|--------|---------|
+            
