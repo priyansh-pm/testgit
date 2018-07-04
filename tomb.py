@@ -67,7 +67,7 @@ for switch in ip_addr:
 		print(decoded_r)
 		print('*' * 80)
 
-for i in range 100
+for i in range 100 
 min is a value in range base64 with result_base64_encodedes
 for i in range 1 to 100
 take type open class ClassName(object):

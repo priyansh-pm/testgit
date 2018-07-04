@@ -4,7 +4,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 with open("anycli_yaml.yaml", 'r') as stream:
     try:
-        yaml_data = yaml.load(stream)
+        yaml_data  = yaml.load(stream)
         ip_addr = yaml_data['ip_addr']
         username = yaml_data['username']
         password = yaml_data['password']
