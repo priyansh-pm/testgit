@@ -19,3 +19,11 @@ Each option has its own sub options, which are also listed below
 	* A reject response would be followed by a standardised reason of rejection of file and will take you back to the original menu
  -Option 4 
 	*This option results in a commpletion of excecution of the program and exits the application
+
+
+Notes : To do list
+	1) Get the download manager working. Find out a way how we can get a donwload link from a specified portion of a yaml file
+	2) Searching mechanism shouldnt be absolute. Option should be showing nearest searches while one searches
+	3) On upload, how do we specify the url of the file provided to the uploaded file?
+	4) Deletion of any file needs to be sorted out. Who has access etc etc 
+	
