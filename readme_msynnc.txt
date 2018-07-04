@@ -11,7 +11,7 @@ Each option has its own sub options, which are also listed below
 	* In Case 1 of a match, You have an option to download file. After choosing to accept or reject it, you will be asked if you want to search again
 	* In Case of no match, You have an option to search again or exit to main menu
  -Option 2
-	* Option 2 shows you the entire list of all files. In case ypu wish to download any of them, an input provided to you at the end would take you to the desired site
+	* Option 2 shows you the entire list of all files. In case you wish to download any of them, an input provided to you at the end would take you to the desired site
 	* YOu have an option to go back to the main menu
  -Option 3
 	* Option 3 gives you the option to upload a file. This goes through the process of authentication, before you are provided with an accept or a reject response
