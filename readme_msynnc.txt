@@ -9,7 +9,7 @@ Each option has its own sub options, which are also listed below
  -Option 1
 	* Gives you an option of searching by name. Once searched, it either returns the files matched, or returns the no files matched statement
 	* In Case 1 of a match, You have an option to download file. After choosing to accept or reject it, you will be asked if you want to search again
-	* In Case of no match, You have an option to search again or exit to main menu
+	* In Case of no m atch, You have an option to search again or exit to main menu
  -Option 2
 	* Option 2 shows you the entire list of all files. In case you wish to download any of them, an input provided to you at the end would take you to the desired site
 	* YOu have an option to go back to the main menu
@@ -25,5 +25,5 @@ Notes : To do list
 	1) Get the download manager working. Find out a way how we can get a donwload link from a specified portion of a yaml file
 	2) Searching mechanism shouldnt be absolute. Option should be showing nearest searches while one searches
 	3) On upload, how do we specify the url of the file provided to the uploaded file?
-	4) Deletion of any file needs to be sorted out. Who has access etc etc 
+	4) Deletion of any file needs to be sorted out. Who has access etc etc. Or is the access only to the programmer
 	
