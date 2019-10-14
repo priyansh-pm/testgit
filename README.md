@@ -1,2 +1,2 @@
 # testgit
-this is for my private test of git
+This is for my private test of git
